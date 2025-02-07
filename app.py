@@ -1,4 +1,4 @@
-import multiprocessing
+import multiprocess
 
 # Function to calculate the square of a number
 def square_number(number):
