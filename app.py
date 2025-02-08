@@ -1,4 +1,8 @@
-import Azureprocess
+
+
+
+import awsprocess
+
 
 # Function to calculate the square of a number
 def square_number(number):
